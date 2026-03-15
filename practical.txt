@@ -1,2 +1,3 @@
 This is my Git practical file.
 This line is added from GitHub.
+This feature is developed in new-feature branch.
